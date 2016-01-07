@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-hotelquickly",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Shared linter settings for HotelQuickly",
   "main": "index.js",
   "repository": {
