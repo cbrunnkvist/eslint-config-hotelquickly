@@ -1,0 +1,15 @@
+{
+  "name": "eslint-config-hotelquickly",
+  "version": "1.0.0",
+  "description": "Shared linter settings for HotelQuickly",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": "Conny Brunnkvist <conny.brunnkvist@hotelquickly.com>",
+  "license": "ISC"
+}
